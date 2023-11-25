@@ -3,12 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: OSSの神話
-lang: jp
+title: Home
 ---
 
 
-# About me
 <style>
 .column-left{
   float: left;
@@ -42,9 +40,14 @@ lang: jp
 }
 </style>
 
+
 <div class="column-text-all">
 <div style="margin-bottom: 30px;">
-こちらは日本語のサイト
+Welcome to our EBook page.<br>
+Please select your language:<br>
+
+- <a href="{{ '/en/' | relative_url }}">English</a><br>
+- <a href="{{ '/jp/' | relative_url }}">日本語 (Japanese)</a>
 </div>
 </div>
 
