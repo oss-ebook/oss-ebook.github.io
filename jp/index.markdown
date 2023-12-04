@@ -32,5 +32,5 @@ OSSコミュニティが成長するにつれて，ソフトウェア開発の�
 そこで，NTTと九州大学のチームは共同でOSSに関してとりざたされるTopicsを6つ取り上げ，データに基づく事実とフィクション（神話）を区別する試みを行います
 このEBookではこれらの神話に対する事実を明らかにします．
 
-[OSS Myths and Facts (v1.0.0, 12月4日)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/ebook/myth_of_OSS_japanese-2023-12-01-02.00.56.pdf)
+[OSS Myths and Facts (v1.0.0, 12月4日)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/ebook/myth_of_OSS_japanese-2023-12-04-05.23.17.pdf)
 
