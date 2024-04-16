@@ -26,5 +26,5 @@ There are various opinions about the state of the OSS community and the involvem
 
 Therefore, the collaborative team between NTT and Kyushu University selected six topics related to OSS and differentiated between data-based facts and fiction (myths). This EBook aims to clarify the facts behind the myths.
 
-[OSS Myths and Facts (v1.0.0, Dec. 4)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/ebook/myth_of_OSS 2023-12-01-02.00.56.pdf)
+[OSS Myths and Facts (update on 2024.4.16)](https://arxiv.org/abs/2404.09223)
 
