@@ -28,3 +28,8 @@ Therefore, the collaborative team between NTT and Kyushu University selected six
 
 [OSS Myths and Facts (updated on 2024.4.16)](https://arxiv.org/abs/2404.09223)
 
+
+## References
+- [Myth 1: OSS community participants are top-notch developers. (updated on 2024.11.15)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/myth1-en.pdf)
+- [Myth 6: The loss of core developers is a critical issue for OSS communities. (updated on 2024.11.15)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/olivier_oss_myth.pdf)
+- [Myth 7: OSS community does not lose to crackers. (updated on 2024.11.15)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/myth7-en.pdf)

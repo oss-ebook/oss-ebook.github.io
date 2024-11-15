@@ -34,3 +34,8 @@ OSSコミュニティが成長するにつれて，ソフトウェア開発の�
 
 [OSS Myths and Facts (2024年4月16日更新)](https://arxiv.org/abs/2404.09223)
 
+## Reference
+- [神話 1: OSSコミュニティの参加者はトップ開発者だ (2024年11月15日更新)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/myth1-jp.pdf)
+- [神話 6: OSSコミュニティではメンバの離脱する (2024年11月15日更新)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/olivier_oss_myth.pdf)
+- [神話 7: OSSコミュニティは，クラッカーに負けない (2024年11月15日更新)](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/myth/myth7-jp.pdf)
+
